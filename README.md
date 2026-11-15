@@ -51,12 +51,15 @@
 
 
 
-
+## Strange Mister
+#### A generative art composition created using Processing, combining overlapping rectangles, different colors, and transparency to create a layered visual design. I also incorporated photographs of Billie and Mister in the artwork, using different sizes, positions, and color effect to blend images with geometric shapes. This project helped me to experiment with randomness, transparency, image manipulation, and creative coding to produce a unique digital collage. This piece is dedicated to Billie Holiday, her master piece "Strange fruit" and her loyal companion, Mister.
 
 
 <img width="1536" height="864" alt="IMG_1344" src="https://github.com/user-attachments/assets/0cc1ca3a-ebcb-41d7-9212-83d4a8aeb054" />
 
-
+### Technologies Used
+#### Processing. 
+### Library of Congress for images [](https://lccn.loc.gov/2023867861)
 
 <img width="964" height="753" alt="Screenshot 2026-11-14 at 9 15 35 PM" src="https://github.com/user-attachments/assets/fdf36b76-b8f2-441a-84e8-7dd8a7f3a5e9" />
 
