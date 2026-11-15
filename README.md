@@ -59,7 +59,10 @@
 
 ### Technologies Used
 #### Processing. 
-### Library of Congress for images [](https://lccn.loc.gov/2023867861)
+#### Library of Congress for images (https://lccn.loc.gov/2023867861)
+
+
+
 
 <img width="964" height="753" alt="Screenshot 2026-11-14 at 9 15 35 PM" src="https://github.com/user-attachments/assets/fdf36b76-b8f2-441a-84e8-7dd8a7f3a5e9" />
 
