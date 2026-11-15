@@ -28,6 +28,12 @@
 #### Processing. 
 #### Javascript.
 
+### Roly Poly 3D
+### I created a 3D version of my character using Processing. The character is made up of different geometric shapes, including spheres and rectangles, with bright colors to create its face, eyes, nose, mouth, and body. I also added colorful shapes in the background to make the design more creative and playful. This project explores 3D shapes, colors, and visual design through coding.
+
+
+<img width="596" height="602" alt="Screenshot 2026-11-15 at 4 23 47 PM" src="https://github.com/user-attachments/assets/3b27a2f9-308d-4bc6-b593-1b27e53fd8aa" />
+
 
 <img width="1273" height="717" alt="Image" src="https://github.com/user-attachments/assets/96ceda54-f63d-49f2-af27-8a69d0b942d4" />
 
