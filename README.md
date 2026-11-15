@@ -60,6 +60,8 @@
 ### Technologies Used
 #### Processing. 
 #### Library of Congress for images (https://lccn.loc.gov/2023867861)
+#### Java programming concepts
+#### Processing graphics and image librabries
 
 
 
