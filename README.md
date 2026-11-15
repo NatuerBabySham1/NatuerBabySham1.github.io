@@ -1,4 +1,3 @@
-<img width="1536" height="864" alt="IMG_1344" src="https://github.com/user-attachments/assets/0cc1ca3a-ebcb-41d7-9212-83d4a8aeb054" />
 # NatuerBabySham1.github.io
 ## Island Gyal in Stem 
 ### My Javascript sites
@@ -50,6 +49,12 @@
 ### Technologies Used
 #### Processing. 
 
+
+
+
+
+
+<img width="1536" height="864" alt="IMG_1344" src="https://github.com/user-attachments/assets/0cc1ca3a-ebcb-41d7-9212-83d4a8aeb054" />
 
 
 
