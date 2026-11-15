@@ -6,6 +6,8 @@
 ### A chaotic compilation of all my confusing quirky projects of this semester.
 ## Creative Coding (Processing)
 
+### Pop My Processing Cherry 
+#### This piece is my first ever attempt at using Processing. I played around with simple shapes and colors to express my curiosity, the end result is this masterpiece that even Picasso himself would be left speechless ;).   
 <img width="403" height="418" alt="Screenshot 2026-09-14 134138" src="https://github.com/user-attachments/assets/66f75e86-cd26-4257-bde0-d7569c029d17" />
 
 
