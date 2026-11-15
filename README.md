@@ -2,7 +2,7 @@
 ## Island Gyal in Stem 
 #### My Javascript sites
 [click here](https://natuerbabysham1.github.io/JavaBaby/)
-[click here](https://natuerbabysham1.github.io/BibleBabe/)
+
 #### A chaotic compilation of all my confusing quirky projects of this semester.
 ## Creative Coding (Processing)
 
@@ -69,7 +69,7 @@
 #### I designed and developed an interactive trivia application focused on Bible truths and biblical knowledge. The application features a series of questions that users can click to reveal answers, making it an engaging learn and test their understanding of the Bible. 
 #### I used HTML ,CSS, JavaScript jQuery to create interactive questions with smooth visual effects. 
 #### This project helped develop my programming skills while combining technology, creativity, and Bible-based learning into interactive experience.
-[click here](https://natuerbabysham1.github.io/BibleBabe/)
+#### To see application [click here](https://natuerbabysham1.github.io/BibleBabe/)
 
 
 <img width="964" height="753" alt="Screenshot 2026-11-14 at 9 15 35 PM" src="https://github.com/user-attachments/assets/fdf36b76-b8f2-441a-84e8-7dd8a7f3a5e9" />
