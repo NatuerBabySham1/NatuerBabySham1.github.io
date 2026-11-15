@@ -3,7 +3,8 @@
 #### My Javascript sites
 [click here](https://natuerbabysham1.github.io/JavaBaby/)
 
-#### A chaotic compilation of all my confusing quirky projects of this semester.
+#### A chaotic compilation of all the confusingly quirky projects I created throughout the journey of attaining my BA in Game and Interactive Media Design at Columbia College Chicago. As you scroll through this page, my only desire is that you will be able to see the growth and appreciate the creative and eclectic mind of the author. I hope you see a little piece of me in every piece of art I display here, and that you see more and more of my emotions and thoughts expressed through my work. Buckle your seatbelt and get ready for the ride, Thank you for stopping by. 
+
 ## Creative Coding (Processing)
 
 ## Pop My Processing Cherry 
