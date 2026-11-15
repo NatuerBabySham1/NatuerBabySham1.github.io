@@ -17,7 +17,17 @@
 
 ### I created a simple character from scratch using Processing. I used b basic shapes, colors, and functions to design the character's face, eyes, nose and mouth.
 
-###  I organized my code into different functions to make it easier <img width="1273" height="717" alt="Image" src="https://github.com/user-attachments/assets/96ceda54-f63d-49f2-af27-8a69d0b942d4" />
+###  I organized my code into different functions to make it easier to manage and reuse. I also used Processing's drawing tools to adjust the shapes, sizes, positions, colors and outlines.
+
+### This project allowed me to combine creativity with basic programming skills and learn how shapes and codes can come together to create a digital character.
+
+## Technologies Used
+
+### Processing. 
+### Javascript.
+
+
+<img width="1273" height="717" alt="Image" src="https://github.com/user-attachments/assets/96ceda54-f63d-49f2-af27-8a69d0b942d4" />
 
 
 <img width="964" height="753" alt="Screenshot 2026-11-14 at 9 15 35 PM" src="https://github.com/user-attachments/assets/fdf36b76-b8f2-441a-84e8-7dd8a7f3a5e9" />
